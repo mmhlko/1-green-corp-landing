@@ -102,9 +102,7 @@ header {
     margin-top: 20px;
   }
 
-.about__info{
- /* min-width: 550px;*/
-}
+
 
 /*FORM*/
 
@@ -255,7 +253,7 @@ footer{
   }
 }
 
-@media (max-width: 1024px) {
+@media (min-width: 721px) and (max-width: 1024px) {
   
  
   .header{
